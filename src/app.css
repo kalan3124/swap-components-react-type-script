@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(241, 239, 239);
+    margin-top: 100px;
+}
+
+.ul-pad {
+    padding: 33px !important;
+}
